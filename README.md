@@ -6,7 +6,7 @@
 - 🔭I'm Interested in **.Net Full Stack web development**
 - 📫 How to reach me **noursalem1717@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [[resume](https://docs.google.com/document/d/13RsyXPwHGNrwZHBOr_ROky8snSuRbKN3z3En5EAhHSY/edit?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
